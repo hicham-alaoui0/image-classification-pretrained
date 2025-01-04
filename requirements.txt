@@ -1,1 +1,9 @@
- 
+torch
+pytorch-lightning
+transformers
+albumentations
+torchdata
+wandb
+fastapi
+uvicorn
+docker
